@@ -1,3 +1,4 @@
+require 'pry'
 # passengers = {
 # suite_a: "Amanda Presley", 
 # suite_b: "Seymour Hoffman", 
@@ -7,5 +8,6 @@
 # }
 
 def select_winner(passengers)
+  binding.pry
   # add the code snippet here!
 end
