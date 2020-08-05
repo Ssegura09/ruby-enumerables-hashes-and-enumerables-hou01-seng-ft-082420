@@ -8,6 +8,6 @@ require 'pry'
 # }
 
 def select_winner(passengers)
-  binding.pry
+  
   # add the code snippet here!
 end
